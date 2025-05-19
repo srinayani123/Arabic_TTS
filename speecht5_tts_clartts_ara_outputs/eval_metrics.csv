@@ -1,0 +1,5 @@
+Dialect,Latency (s),Audio Duration (s),File
+MSA,22.73,7.33,speecht5_outputs/MSA.wav
+Najdi,14.21,7.01,speecht5_outputs/Najdi.wav
+Hijazi,15.8,5.44,speecht5_outputs/Hijazi.wav
+Gulf,11.7,5.76,speecht5_outputs/Gulf.wav

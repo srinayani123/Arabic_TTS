@@ -1,5 +1,4 @@
-# Generate a detailed README content for the project
-detailed_readme = """
+
 # 🗣️ Arabic Text-to-Speech (TTS) Model Benchmark
 
 This project presents a comparative study and implementation of three modern Text-to-Speech (TTS) systems for Arabic: **Meta’s MMS**, **Coqui’s XTTS-v2**, and **Microsoft’s SpeechT5**. The goal is to evaluate their performance across Arabic dialects including MSA, Najdi, Hijazi, and Gulf.
